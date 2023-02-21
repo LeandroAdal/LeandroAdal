@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, sou o Leandro 👋
 
 <!--
 **leandro-adal/leandro-adal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
