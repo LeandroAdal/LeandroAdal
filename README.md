@@ -1,6 +1,6 @@
 ### Olá, sou o Leandro 👋
 
-- Estou estudando Ciência da Computaçã na UFAL - Arapiraca
+- Estou estudando Ciência da Computação na UFAL - Arapiraca
 
 ##
 
