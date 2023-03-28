@@ -25,7 +25,7 @@
   
 <div> 
   <a href="https://instagram.com/" target="_blank"><img height="29" width="95" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
@@ -34,18 +34,17 @@
 
 ### Main skills:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFA500&labelColor=0D1117&textColor=0D1117)&nbsp;
   
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
-### Other Knowledge:
 
-
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{leandro-adal}/count.svg" /></p> 
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{leandro-adal}/count.svg" /></p> 
 <br></div>
   
 
