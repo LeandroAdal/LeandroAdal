@@ -6,7 +6,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leandro-adal&show_icons=true&count_private=true&hide_border=true&title_color=D8582C&icon_color=FFE400&text_color=FFFFFF&bg_color=09131B" alt="Leandro Silva github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-adal&layout=compact&hide_border=true&title_color=D8582C&text_color=FFFFFF&bg_color=09131B" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-adal&layout=compact&hide_border=true&title_color=D8582C&text_color=FFFFFF&bg_color=09131B&exclude_repo=Eleicoes2020-AL" />
 </div>
 
 
@@ -38,7 +38,7 @@
   
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117&textColor=0D1117)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 
