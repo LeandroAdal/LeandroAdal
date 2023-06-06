@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8582C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leandro+A.+S.+Silva;I'm+25+years+old;I'm+from+Brasil,+AL;I+study+Computer+Science+at+UFAL+-+Arapiraca;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leandro-adal&bg_color=09131b&color=d8582c&line=a84524&point=5c5757&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leandro-adal&bg_color=09131b&color=d8582c&line=a84524&point=5c5757&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leandro-adal&show_icons=true&count_private=true&hide_border=true&title_color=D8582C&icon_color=FFE400&text_color=FFFFFF&bg_color=09131B" alt="Leandro Silva github stats" /> 
